@@ -1,1 +1,1 @@
-# creative
+The Notes App is a simple yet powerful tool built using HTML, CSS, and JavaScript that allows users to create, categorize, search, and view notes in a clean and organized interface. Users can add a title, write a note, select a category like personal, work, or important, and instantly see it added to their notes list. With a built-in search bar, finding specific notes is quick and easy. This project is perfect for beginners to learn DOM manipulation, event handling, and local storage concepts in JavaScript.
